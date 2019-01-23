@@ -1,10 +1,8 @@
 
 
-a{
-  color: :black
-  a:hover{color}
+.checked {
+  color: orange;
 }
-
 
 
   td{
